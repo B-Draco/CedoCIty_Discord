@@ -1,0 +1,78 @@
+{
+  "name": "Cedo City",
+  "roles": [
+    {"name": "Normal", "color": "#000000"},
+    {"name": "Red", "color": "#FF0000"},
+    {"name": "BDL-Bloodline", "color": "#FF4500"},
+    {"name": "GB-GlockBlock", "color": "#808080"},
+    {"name": "STL-Stacks, Traps, Loyalty", "color": "#800080"},
+    {"name": "NV-NoneVille", "color": "#FFFF00"},
+    {"name": "BS-Block's Shooters", "color": "#FFFFFF"},
+    {"name": "LCK-Look Clokk Killa", "color": "#FF6347"},
+    {"name": "LC-Look Clocc", "color": "#0000FF"},
+    {"name": "Bloods", "color": "#FF0000"},
+    {"name": "Crip", "color": "#00008B"},
+    {"name": "KL-Killer Lookers", "color": "#A52A2A"},
+    {"name": "LG-Lookers Gang", "color": "#FFC0CB"},
+    {"name": "KTO-Killin The Opp's", "color": "#00BFFF"},
+    {"name": "ABC-Ahkers Blocc Crips", "color": "#0000FF"},
+    {"name": "RS-Rost Shooter's", "color": "#800080"},
+    {"name": "KTZ-Killa's Thill Zero", "color": "#FFD700"},
+    {"name": "MFK-Mafia Flocc Killers", "color": "#808080"},
+    {"name": "TSK-Thugz Stay Killin", "color": "#000000"},
+    {"name": "BLQ-Blood Legacy Queens", "color": "#EE82EE"},
+    {"name": "VSK-Vouski Street Killaz", "color": "#FF0000"},
+    {"name": "BLD-Bloodz Living Dead", "color": "#008000"},
+    {"name": "VPR-Viper Redz", "color": "#00FF7F"},
+    {"name": "BHG-Blood Hoes Gang", "color": "#FF0000"},
+    {"name": "CBG-Crip Bitchs Gang", "color": "#0000FF"},
+    {"name": "LBZ-Loyal Baddiez", "color": "#FFC0CB"},
+    {"name": "9BB-9Block Bloodz", "color": "#FF0000"},
+    {"name": "Thug P.A.C", "color": "#FF0000"},
+    {"name": "OTR-Only The Runner's", "color": "#808080"},
+    {"name": "YSD-Young Savage Demonz", "color": "#00BFFF"},
+    {"name": "DSK-DarkSide Killaz", "color": "#FFFF00"},
+    {"name": "Roolin Ny 70's", "color": "#800080"},
+    {"name": "GSF-Grove Street Families", "color": "#006400"}
+  ],
+  "categories": [
+    {
+      "name": "Informação",
+      "channels": ["📜regras","📢anúncios","👀avisos","🗺️mapa-cedo-city"]
+    },
+    {
+      "name": "Geral",
+      "channels": ["💬chat-geral","🎵musica","📹videos","📸fotos"]
+    },
+    {
+      "name": "Ops & Criminoso",
+      "channels": ["⚔️ops","💰negocios","🏙️territorios","🤝aliados","☠️opps"]
+    },
+    {
+      "name": "Cops",
+      "channels": ["👮cops"]
+    },
+    {
+      "name": "Gangs",
+      "channels": [
+        "🩸bdl-bloodline","🔫gb-glockblock","🔲stl-stacks,traps,loyalty","⛔nv-noneville","🔫bs-block's-shooters",
+        "⏰lck-look-clokk-killa","👀lc-look-clocc","🩸bloods","🚹crip","🦂kl-killer-lookers",
+        "➰lg-lookers-gang","⚓kto-killin-the-opps","🅰️abc-ahkers-blocc-crips","🎯rs-rost-shooters",
+        "⛑️ktz-killa's-thill-zero","🕵mfk-mafia-flocc-killers","♾️tsk-thugz-stay-killin","👑blq-blood-legacy-queens",
+        "🚼vsk-vouski-street-killaz","🩸bld-bloodz-living-dead","🐍vpr-viper-redz","🅱️bhg-blood-hoes-gang",
+        "🔵cbg-crip-bitchs-gang","👑lbz-loyal-baddiez","9️⃣9bb-9block-bloodz","🕍thug-p.a.c","🔗otr-only-the-runners",
+        "🌐ysd-young-savage-demonz","⛎dsk-darkside-killaz","🎶roolin-ny-70's","✳️gsf-grove-street-families"
+      ]
+    },
+    {
+      "name": "História",
+      "channels": [
+        "capitulo-1","capitulo-2","capitulo-3","capitulo-4","capitulo-5","capitulo-6","capitulo-7","capitulo-8","capitulo-9","capitulo-10",
+        "capitulo-11","capitulo-12","capitulo-13","capitulo-14","capitulo-15","capitulo-16","capitulo-17","capitulo-18","capitulo-19","capitulo-20",
+        "capitulo-21","capitulo-22","capitulo-23","capitulo-24","capitulo-25","capitulo-26","capitulo-27","capitulo-28","capitulo-29","capitulo-30",
+        "capitulo-31","capitulo-32","capitulo-33","capitulo-34","capitulo-35","capitulo-36","capitulo-37","capitulo-38","capitulo-39","capitulo-40",
+        "capitulo-41","capitulo-42","capitulo-43","capitulo-44","capitulo-45","capitulo-46","capitulo-47","capitulo-48","capitulo-49","capitulo-50"
+      ]
+    }
+  ]
+}
